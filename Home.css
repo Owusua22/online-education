@@ -1,0 +1,20 @@
+.button{
+    display: flex;
+    width: 90%;
+    column-gap: 20px;
+    height: 50%;
+    margin-top: 70px;
+}
+ .welcome{
+    text-align: left;
+    margin-top: -450px;
+    color: white;
+}
+.learn{
+    margin-top: 230px;
+}
+.watch{
+    display: flex;
+    column-gap: 20px;
+    margin-top: 40px;
+}

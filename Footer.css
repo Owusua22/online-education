@@ -1,0 +1,24 @@
+.footer{
+    background-color: #67d5d5;
+    line-height: 4rem;
+    margin-top: 2rem;
+    cursor: pointer;
+}
+.foot{
+    margin-left: 30px;
+    line-height: 5rem;
+    margin-top: 2rem;
+}
+.media{
+    display: flex;
+    column-gap: 4rem;
+    font-size: 30px;
+}
+.help{
+    margin-left: 50px;
+    line-height: 5rem;
+    margin-top: 2rem;
+}
+.recent{
+    margin-top: 30px;
+}

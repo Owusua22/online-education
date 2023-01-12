@@ -1,0 +1,23 @@
+iframe{
+    width: 100%;
+    height: 100%;
+}
+Form{
+    margin-top: 30px;
+    font-size: 20px;
+    line-height: 20px;
+}
+Form.Label{
+    margin-top: 50px;
+    border-style: solid;
+    border-color: black;
+}
+.con{
+    margin-top: -300px;
+    color: white;
+    font-weight: 900;
+    font-size: 60px;
+}
+.contact{
+    margin-top: 350px;
+}
